@@ -1,5 +1,5 @@
-local users = {
-  'username',
-  'username',
-  'username'
+local key = {
+  'fWErewRewasfAfasd'
 }
+
+return key

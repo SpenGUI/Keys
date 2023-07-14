@@ -1,3 +1,3 @@
-local key ={
-  "u6sc9DKsXo"
+local keyy = {
+  'u6sc9DKsXo',
 }
